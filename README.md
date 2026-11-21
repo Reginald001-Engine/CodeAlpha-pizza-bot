@@ -3,10 +3,10 @@ v# 🍕 PizzaBot - AI Chatbot
 A retrieval-based AI chatbot for pizza delivery, built with Node.js and Express.
 
 ## Features
-- 💬 Instant responses to customer queries
--  Predefined patterns for menu, orders, hours, and location
-- 🎨 Beautiful, colorful UI with floating chat widget
-- 📱 Responsive design for mobile and desktop
+- 💬 Instant responses to customer queries.
+-  Predefined patterns for menu, orders, hours, and location.
+- 🎨 Beautiful, colorful UI with floating chat widget.
+- 📱 Responsive design for mobile and desktop.
 
 ## Installation
 
